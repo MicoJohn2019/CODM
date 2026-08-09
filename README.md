@@ -1,3 +1,3 @@
 # CODM
 
-Auto Update Logic there only JSON
+Stay tuned soon!
